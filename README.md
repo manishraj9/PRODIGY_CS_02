@@ -1,16 +1,16 @@
 # PRODIGY_CS_02
 HI,
 HERE I AM DOING THE FIRST PROJECT OF CYBER SECURITY(CS) INTERNSHIP OF PRODIGY INFOTECH.
-PROJECT NAME- Pixel Manipulation for Image Encryption
-PROJECT DESCRIPTION-Develop a simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allow users to encrypt and decrypt images.
-PROJECT CORRELATION IN REAL LIFE - Secure Image Transfer: Encrypt sensitive images before transmitting them over insecure channels to prevent unauthorized access.
+**PROJECT NAME- Pixel Manipulation for Image Encryption
+PROJECT DESCRIPTION-Develop a simple image encryption tool using pixel manipulation. You can perform operations like swapping pixel values or applying a basic mathematical operation to each pixel. Allow users to encrypt and decrypt images.**
+**PROJECT CORRELATION IN REAL LIFE** - Secure Image Transfer: Encrypt sensitive images before transmitting them over insecure channels to prevent unauthorized access.
 Digital Rights Management (DRM): Protect copyrighted images by applying encryption to prevent unauthorized usage or distribution.
 Steganography: Hide encrypted images within other images or media to conceal their existence and prevent detection.
 Secure Authentication: Use encrypted images as part of a multi-factor authentication process to enhance security for sensitive applications.
 Privacy Protection: Encrypt personal or confidential images stored on devices or cloud platforms to maintain privacy and prevent data breaches.
 By understanding and applying pixel manipulation techniques, developers can create secure and practical image encryption solutions for real-world scenarios.
-DEFINITION - Pixel-level encryption and decryption of images, various pixel manipulation methods can be done for enhanced the security.
-HISTORICAL ASPECT- Image encryption has a rich history spanning several decades, with key developments in both symmetric and asymmetric cryptography. Here are some notable milestones:
+**DEFINITION** - Pixel-level encryption and decryption of images, various pixel manipulation methods can be done for enhanced the security.
+**HISTORICAL ASPECT**- Image encryption has a rich history spanning several decades, with key developments in both symmetric and asymmetric cryptography. Here are some notable milestones:
 Early Cryptography (Pre-Computer Era)
 Circa 600 BC: The ancient Spartans used a scytale device to send secret messages during battle. The scytale consisted of a leather strap wrapped around a wooden rod, with the letters on the strap becoming meaningful only when wrapped around a rod of the correct size.
 Circa 1900 BC: Cryptography likely started in ancient Egypt, when a scribe used unexpected hieroglyphic characters instead of the usual ones in writing.
